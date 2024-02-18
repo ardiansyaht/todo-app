@@ -22,7 +22,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Ardhiansyah Tanjung',
+      title: 'Todo App',
       theme: ThemeData(
         colorScheme: const ColorScheme.light(
             background: Colors.white,
