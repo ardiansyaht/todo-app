@@ -129,7 +129,7 @@ class _HomeScreenState extends State<HomeScreen> {
           backgroundColor: Theme.of(context).colorScheme.primary,
           elevation: 0,
           title: const Text(
-            'Ardhiansyah',
+            'Ardhiansyah Tanjung',
             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
         ),
